@@ -1,3 +1,4 @@
+.. :changelog:
 
 Release History
 ---------------
