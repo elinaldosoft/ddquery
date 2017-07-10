@@ -15,4 +15,4 @@ before_install:
 
 script:
   - python setup.py test
-  - coverage run -m unittest sqlformatter_test.py
+  - coverage run -m unittest ddquery_test.py
