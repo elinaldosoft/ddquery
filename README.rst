@@ -5,8 +5,20 @@ Ddquery is one lib in python for beautiful colored SQL statements, for database 
 How it looks like?
 ------------------
 
+.. code-block:: console
+
+    python manage.py runserver
+
 .. image:: https://raw.githubusercontent.com/elinaldosoft/ddquery/master/imgs/shell-01.png
     :alt: Shell
+
+.. code-block:: console
+
+    python manage.py shell
+
+.. image:: https://raw.githubusercontent.com/elinaldosoft/ddquery/master/imgs/shell-02.png
+    :alt: Shell 02
+
 
 How to use
 -----------
