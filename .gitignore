@@ -47,6 +47,7 @@ target/
 celerybeat-schedule
 *.sage.py
 .env
+.pypirc
 .venv
 venv/
 ENV/
