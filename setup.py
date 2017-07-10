@@ -6,7 +6,7 @@ LONG_DESCRIPTION = """
 """.strip()
 
 SHORT_DESCRIPTION = """
-A library for automatically debug sql in Django.
+Django Debug Query (ddquery) beautiful colored SQL statements for logging
 """.strip()
 
 DEPENDENCIES = [
@@ -21,7 +21,7 @@ TEST_DEPENDENCIES = [
 
 setup(
     name='ddquery',
-    version='0.1',
+    version='0.2',
     description=SHORT_DESCRIPTION,
     long_description=LONG_DESCRIPTION,
     url='https://github.com/elinaldosoft/ddquery.git',
@@ -43,5 +43,5 @@ setup(
     ],
     py_modules=['ddquery'],
     install_requires=DEPENDENCIES,
-    tests_require=TEST_DEPENDENCIES,
+    tests_require=TEST_DEPENDENCIES
 )
