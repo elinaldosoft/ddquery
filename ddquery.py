@@ -29,7 +29,8 @@ class SqlFormatter(logging.Formatter):
 
         if self.parse:
             sql = sqlparse.format(sql, reindent=self.reindent, keyword_case=self.keyword_case)
-            sql = "({0:.3f}ms) {1}".format(record.duration, sql)
+            if hasattr(record, 'duration'):
+                sql = "({0:.3f}ms) {1}".format(record.duration, sql)
 
         if self.highlight:
             sql = highlight(
