@@ -15,6 +15,7 @@ DEPENDENCIES = [
 ]
 
 TEST_DEPENDENCIES = [
+    'coverage==4.4.1'
 ]
 
 
