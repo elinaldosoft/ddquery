@@ -40,6 +40,7 @@ setup(
         'Topic :: Software Development :: Libraries',
         'Topic :: Debug :: Django',
     ],
+    py_modules=['ddquery'],
     install_requires=DEPENDENCIES,
     tests_require=TEST_DEPENDENCIES,
 )
