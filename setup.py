@@ -21,7 +21,7 @@ TEST_DEPENDENCIES = [
 
 setup(
     name='ddquery',
-    version='0.5',
+    version='0.1',
     description=SHORT_DESCRIPTION,
     long_description=LONG_DESCRIPTION,
     url='https://github.com/elinaldosoft/ddquery.git',
