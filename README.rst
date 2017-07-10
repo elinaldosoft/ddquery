@@ -2,6 +2,12 @@ Django Debug Query (ddquery)
 -------------------------------
 Ddquery is one lib in python for beautiful colored SQL statements, for database relational in Django
 
+How it looks like?
+------------------
+
+.. image:: https://raw.githubusercontent.com/elinaldosoft/ddquery/master/imgs/shell-01.png
+    :alt: Shell
+
 How to use
 -----------
 
