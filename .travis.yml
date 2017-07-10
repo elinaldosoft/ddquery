@@ -8,10 +8,7 @@ python:
   - "3.6-dev" # 3.6 development branch
   - "3.7-dev" # 3.7 development branch
   - "nightly" # currently points to 3.7-dev
-before_install:
-  - pip install coverage==4.4.1
-  - pip install Pygments==2.2.0
-  - pip install sqlparse==0.2.3
 
 script:
+  - python setup.py test
   - coverage run -m unittest sqlformatter_test.py
