@@ -3,7 +3,7 @@ Django Debug Query (ddquery)
 Ddquery is one lib in python for beautiful colored SQL statements, for database relational in Django
 
 Requirements
-============
+------------------
 - Python ≥ 3.3
 - Django ≥ 1.8
 
