@@ -13,32 +13,6 @@ How to use
 
     pip install ddquery
 
-
-How it looks like?
-------------------
-
-.. code-block:: console
-
-    python manage.py runserver
-
-.. image:: https://raw.githubusercontent.com/elinaldosoft/ddquery/master/imgs/shell-01.png
-    :alt: Shell
-
-.. code-block:: console
-
-    python manage.py shell
-
-.. image:: https://raw.githubusercontent.com/elinaldosoft/ddquery/master/imgs/shell-02.png
-    :alt: Shell 02
-
-.. code-block:: console
-
-    python manage.py migration
-
-.. image:: https://raw.githubusercontent.com/elinaldosoft/ddquery/master/imgs/migration.png
-    :alt: Migration
-
-
 Add it to your Django Logging settings
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -69,3 +43,28 @@ You can add it to yout Django LOGGING settings:
             },
         }
     }
+
+
+How it looks like?
+------------------
+
+.. code-block:: console
+
+    python manage.py runserver
+
+.. image:: https://raw.githubusercontent.com/elinaldosoft/ddquery/master/imgs/shell-01.png
+    :alt: Shell
+
+.. code-block:: console
+
+    python manage.py shell
+
+.. image:: https://raw.githubusercontent.com/elinaldosoft/ddquery/master/imgs/shell-02.png
+    :alt: Shell 02
+
+.. code-block:: console
+
+    python manage.py migration
+
+.. image:: https://raw.githubusercontent.com/elinaldosoft/ddquery/master/imgs/migration.png
+    :alt: Migration
