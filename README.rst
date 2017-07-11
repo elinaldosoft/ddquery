@@ -44,6 +44,22 @@ You can add it to yout Django LOGGING settings:
         }
     }
 
+Options of configuration
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+.. code-block:: python
+
+    'formatters': {
+        'sqlformatter': {
+            '()': 'sqlformatter.SqlFormatter',
+            'format': '%(levelname)s %(message)s',
+            'reindent': False,
+            'highlight': False,
+            'keyword_case': 'lower'
+        },
+    },
+
+
+
 
 How it looks like?
 ------------------
