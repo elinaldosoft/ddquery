@@ -84,3 +84,10 @@ How it looks like?
 
 .. image:: https://raw.githubusercontent.com/elinaldosoft/ddquery/master/imgs/migration.png
     :alt: Migration
+
+References
+------------------
+https://github.com/henriquebastos/sqlformatter
+http://henriquebastos.net/sqlformatter-beautiful-colored-sql-statements-for-logging/
+https://markusholtermann.eu/2016/01/syntax-highlighting-for-djangos-sql-query-logging/
+
