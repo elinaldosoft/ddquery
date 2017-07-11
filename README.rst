@@ -87,7 +87,7 @@ How it looks like?
 
 References
 ------------------
-https://github.com/henriquebastos/sqlformatter
-http://henriquebastos.net/sqlformatter-beautiful-colored-sql-statements-for-logging/
-https://markusholtermann.eu/2016/01/syntax-highlighting-for-djangos-sql-query-logging/
+- https://github.com/henriquebastos/sqlformatter
+- http://henriquebastos.net/sqlformatter-beautiful-colored-sql-statements-for-logging/
+- https://markusholtermann.eu/2016/01/syntax-highlighting-for-djangos-sql-query-logging/
 
