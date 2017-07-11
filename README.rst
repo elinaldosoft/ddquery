@@ -7,6 +7,13 @@ Requirements
 - Python ≥ 3.3
 - Django ≥ 1.8
 
+How to use
+-----------
+.. code-block:: console
+
+    pip install ddquery
+
+
 How it looks like?
 ------------------
 
@@ -30,14 +37,6 @@ How it looks like?
 
 .. image:: https://raw.githubusercontent.com/elinaldosoft/ddquery/master/imgs/migration.png
     :alt: Migration
-
-
-How to use
------------
-
-.. code-block:: console
-
-    pip install ddquery
 
 
 Add it to your Django Logging settings
