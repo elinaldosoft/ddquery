@@ -44,7 +44,7 @@ You can add it to your Django LOGGING settings:
         }
     }
 
-Options of configuration
+Configuration options
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 .. code-block:: python
 
