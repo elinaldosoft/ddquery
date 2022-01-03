@@ -10,8 +10,8 @@ Django Debug Query (ddquery) beautiful colored SQL statements for logging
 """.strip()
 
 DEPENDENCIES = [
-    'Pygments==2.2.0',
-    'sqlparse==0.2.3'
+    'Pygments>=2.2.0',
+    'sqlparse>=0.2.3'
 ]
 
 TEST_DEPENDENCIES = [
